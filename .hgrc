@@ -1,5 +1,6 @@
 [ui]
 username = wenmingc (wenmingc@jumei.com)
+merge = Kaleidoscope
 
 [extensions]
 color = 
@@ -8,10 +9,6 @@ jumei = /Users/wenming/.jumei_code.py
 
 #prompt =~/.hg-extensions/hg-prompt/prompt.py
 hgext.extdiff =
- 
-[ui]
-username = zhangxiaoman<zzxiaoman@gmail.com>
-merge = Kaleidoscope
  
 [diff]
 git = True
