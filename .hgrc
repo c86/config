@@ -1,0 +1,26 @@
+[ui]
+username = wenmingc (wenmingc@jumei.com)
+
+[extensions]
+color = 
+shelve = 
+jumei = /Users/wenming/.jumei_code.py
+
+#prompt =~/.hg-extensions/hg-prompt/prompt.py
+hgext.extdiff =
+ 
+[ui]
+username = zhangxiaoman<zzxiaoman@gmail.com>
+merge = Kaleidoscope
+ 
+[diff]
+git = True
+ 
+ 
+[extdiff]
+cmd.ksdiff = /usr/local/bin/ksdiff
+opts.ksdiff = --changeset --wait --filelist
+ 
+[merge-tools]
+Kaleidoscope.executable = /usr/local/bin/ksdiff
+Kaleidoscope.args = --merge --output $output --base $base -- $local $other
