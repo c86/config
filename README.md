@@ -5,3 +5,4 @@
 * 在.zshrc中添加
 * ZSH_THEME = 'wenming'
 * plugins = (git mercurial)
+* 重置Iterm2配色:defaults delete com.googlecode.iterm2
