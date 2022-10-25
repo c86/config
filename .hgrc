@@ -1,11 +1,10 @@
 [ui]
-username = wenmingc (wenmingc@jumei.com)
+username = wenmingc
 merge = Kaleidoscope
 
 [extensions]
 color = 
 shelve = 
-jumei = /Users/wenming/.jumei_code.py
 
 #prompt =~/.hg-extensions/hg-prompt/prompt.py
 hgext.extdiff =
